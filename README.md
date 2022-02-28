@@ -26,7 +26,7 @@ You will lose by having three enemy helicopter collisions with your helicopter.
 
 &nbsp;
 
-### Instructions to play this game
+### Game Instructions
 
 - Press the "up arrow" to move the helicopter up;
 - Press the "down arrow" to move the helicopter down;
